@@ -1,0 +1,12 @@
+{
+  "name": "indodax-touchbar-script",
+  "version": "1.0.0",
+  "description": "Script macbook touchbar for fatch indodax",
+  "main": "index.js",
+  "author": "Ryan Nixon Salim",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "currency-formatter": "^1.4.2"
+  }
+}
