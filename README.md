@@ -5,11 +5,11 @@ Simple script for fetching [indodax.com](https://www.indodax.com) (bitcoin.co.id
 ## Usage
 
 ```
-npm install indodax-nodejs-cli
-indodax-nodejs-cli [cryptocurrency code]
+clone this repo
+node index.js [cryptocurrency code]
 
 #example
-indodax-nodejx-cli xrp
+node index.js xrp
 ```
 
 ###Example usecase
