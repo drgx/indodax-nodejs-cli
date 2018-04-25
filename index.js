@@ -9,5 +9,5 @@ axios.get(`https://vip.bitcoin.co.id/api/${args[2]}_idr/ticker`)
     console.log(displayText);
   })
   .catch(function (error) {
-    console.log(error);
+    console.log(args[2]);
   });
