@@ -12,5 +12,5 @@ node index.js [cryptocurrency code]
 node index.js xrp
 ```
 
-###Example usecase
+### Example usecase
 This simple script can be used for macbook touchbar script using [Better touch tool](https://folivora.ai/) and shell script
